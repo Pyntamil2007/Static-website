@@ -5,4 +5,4 @@ INTERN ID    : CT04DH1136
 MENTOR       : NEELA SANTHOSH KUMAR
 DURATION     : 4 WEEKS
 DOMAIN       : SOFTWARE DEVELOPMENT
-OUTPUT        
+OUTPUT        "C:\Users\pynta\Pictures\Screenshots\Screenshot 2025-08-05 185932.png"

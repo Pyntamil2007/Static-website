@@ -12,4 +12,4 @@ DURATION     : 4 WEEKS
 
 DOMAIN       : SOFTWARE DEVELOPMENT
 
-OUTPUT        "C:\Users\pynta\Pictures\Screenshots\Screenshot 2025-08-05 185932.png"
+OUTPUT       : <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96aeb8d6-88a4-47e3-acf1-30e5f30099b1" /> 
